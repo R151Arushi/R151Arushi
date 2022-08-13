@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arushi Sharma
-- 👀 I’m interested in SWE, Data Sciecne and Math
+- 👀 I’m interested in SWE, Data Sciecne and Math!
 - 🌱 I’m currently learning Data Mining techniques for commercial systems!
 - 📫 How to reach me : arushi_sharma@berkeley.edu
 
